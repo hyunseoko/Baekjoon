@@ -1,0 +1,41 @@
+﻿  소스.cpp
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(8,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'record' 왼쪽은 무시됩니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(11,16): error C2079: 'x'은(는) 정의되지 않은 struct 'main::recoed'을(를) 사용합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(16,21): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(16,38): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(16,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(16,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(16,11): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(17,21): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(17,38): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(17,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(17,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(17,11): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(18,21): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(18,39): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(18,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(18,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(18,11): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(21,6): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(21,17): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(21,28): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(21,39): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(22,6): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(22,28): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(26,21): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(26,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(26,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(26,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(27,21): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(27,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(27,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(27,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(28,21): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(28,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(28,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(28,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(30,21): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(30,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(30,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(30,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\82107\source\repos\Project1\3주차\3주차\소스.cpp(31,24): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.

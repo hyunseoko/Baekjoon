@@ -1,0 +1,10 @@
+﻿  소스.cpp
+C:\Users\82107\source\repos\Project1\4주차\4주차\소스.cpp(9,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'record' 왼쪽은 무시됩니다.
+C:\Users\82107\source\repos\Project1\4주차\4주차\소스.cpp(17,28): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\82107\source\repos\Project1\4주차\4주차\소스.cpp(17,28): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\82107\source\repos\Project1\4주차\4주차\소스.cpp(18,28): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\82107\source\repos\Project1\4주차\4주차\소스.cpp(18,28): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\82107\source\repos\Project1\4주차\4주차\소스.cpp(19,29): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\82107\source\repos\Project1\4주차\4주차\소스.cpp(19,29): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\82107\source\repos\Project1\4주차\4주차\소스.cpp(23,34): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  4주차.vcxproj -> C:\Users\82107\source\repos\Project1\4주차\x64\Debug\4주차.exe
